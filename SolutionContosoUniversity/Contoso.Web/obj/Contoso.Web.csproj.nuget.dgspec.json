@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj": {}
+    "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
+    "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj",
         "projectName": "Contoso.Data",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\obj\\",
+        "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj",
+        "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
+        "outputPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
+              "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
+                "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
               }
             }
           }
@@ -81,21 +81,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
+    "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj",
         "projectName": "Contoso.Domain",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\obj\\",
+        "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj",
+        "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
+        "outputPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -142,21 +142,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj": {
+    "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
         "projectName": "Contoso.Services",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\obj\\",
+        "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
+        "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
+        "outputPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -167,11 +167,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
+              "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
+                "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
               },
-              "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
+              "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
+                "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
               }
             }
           }
@@ -214,21 +214,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj": {
+    "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj",
+        "projectUniqueName": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj",
         "projectName": "Contoso.Web",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Web\\obj\\",
+        "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Web\\Contoso.Web.csproj",
+        "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
+        "outputPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -239,11 +239,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
+              "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
+                "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
               },
-              "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj"
+              "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj": {
+                "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj"
               }
             }
           }
@@ -257,6 +257,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -292,6 +296,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -300,7 +322,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

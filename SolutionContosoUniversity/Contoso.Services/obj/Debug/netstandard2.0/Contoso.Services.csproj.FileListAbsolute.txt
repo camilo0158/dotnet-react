@@ -11,3 +11,16 @@ C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Data.pdb
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Domain.pdb
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.csproj.CopyComplete
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.deps.json
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.pdb
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Data.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Domain.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Data.pdb
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Domain.pdb
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.csprojAssemblyReference.cache
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.AssemblyInfoInputs.cache
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.AssemblyInfo.cs
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.csproj.CopyComplete
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.pdb

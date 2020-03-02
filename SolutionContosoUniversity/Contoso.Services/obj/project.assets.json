@@ -6701,19 +6701,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\jmartineza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
       "projectName": "Contoso.Services",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Services\\obj\\",
+      "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\Contoso.Services.csproj",
+      "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
+      "outputPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -6724,11 +6724,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
+            "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj": {
+              "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Data\\Contoso.Data.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\Desarrollo\\DOTNET\\Projects\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
+            "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj": {
+              "projectPath": "D:\\DOTNET\\Projects\\ReactProject\\dotnet-react\\SolutionContosoUniversity\\Contoso.Domain\\Contoso.Domain.csproj"
             }
           }
         }
@@ -6771,7 +6771,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

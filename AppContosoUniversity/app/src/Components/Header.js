@@ -10,29 +10,30 @@ class Header extends Component {
     render() {
         return (
             <div>
-                <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-                    <div class="container">
-                        <a class="navbar-brand" href="/">{this.props.name}</a>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                <nav className="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                    <div className="container">
+                        <a className="navbar-brand" href="/">{this.props.name}</a>                        
+                        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
+                            <span className="navbar-toggler-icon"></span>
                         </button>
-                        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                            <ul class="navbar-nav flex-grow-1">
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" href="/About">About</a>
+                        <a href="/">{this.props.date()}</a> 
+                        <div className="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                            <ul className="navbar-nav flex-grow-1">
+                                <li className="nav-item">
+                                    <a className="nav-link text-dark" href="/About">About</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" href="/Students">Students</a>
+                                <li className="nav-item">
+                                    <a className="nav-link text-dark" href="/Students">Students</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" href="/Courses">Courses</a>
+                                <li className="nav-item">
+                                    <a className="nav-link text-dark" href="/Course">Courses</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" href="">Instructors</a>
+                                <li className="nav-item">
+                                    <a className="nav-link text-dark" href="">Instructors</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-dark" href="">Departments</a>
+                                <li className="nav-item">
+                                    <a className="nav-link text-dark" href="">Departments</a>
                                 </li>
                             </ul>
                         </div>

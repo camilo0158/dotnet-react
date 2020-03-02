@@ -6,3 +6,11 @@ C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.AssemblyInfo.cs
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.dll
 C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.pdb
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\bin\Debug\netstandard2.0\Contoso.Domain.deps.json
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\bin\Debug\netstandard2.0\Contoso.Domain.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\bin\Debug\netstandard2.0\Contoso.Domain.pdb
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.csprojAssemblyReference.cache
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.AssemblyInfoInputs.cache
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.AssemblyInfo.cs
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.dll
+D:\DOTNET\Projects\ReactProject\dotnet-react\SolutionContosoUniversity\Contoso.Domain\obj\Debug\netstandard2.0\Contoso.Domain.pdb

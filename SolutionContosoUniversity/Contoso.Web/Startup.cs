@@ -36,6 +36,12 @@ namespace Contoso.Web
             services.AddMvc(option => option.EnableEndpointRouting=false)
                 .SetCompatibilityVersion(CompatibilityVersion.Version_3_0)
                 .AddNewtonsoftJson(opt => opt.SerializerSettings.ReferenceLoopHandling=Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowOrigin",
+                    builder => builder.AllowAnyOrigin());
+            });
             
             services.AddScoped<IStudentsService, StudentsService>();
             services.AddScoped<IAboutService, AboutService>();
@@ -54,6 +60,9 @@ namespace Contoso.Web
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(builder =>
+                builder.WithOrigins("http://localhost:3000"));
 
             app.UseEndpoints(endpoints =>
             {

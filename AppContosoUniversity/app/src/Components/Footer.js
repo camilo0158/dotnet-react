@@ -3,8 +3,8 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <footer class="border-top footer text-muted">
-                <div class="container">
+            <footer className="border-top footer text-muted">
+                <div className="container">
                     © 2019 - Contoso University - <a href="/Privacy">Privacy</a>
                 </div>
             </footer>
