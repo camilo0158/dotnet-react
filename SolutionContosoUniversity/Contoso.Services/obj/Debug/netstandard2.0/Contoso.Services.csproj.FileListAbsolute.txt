@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.deps.json
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.dll
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Services.pdb
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.dll
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.pdb
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Data.dll
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Domain.dll
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Data.pdb
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\bin\Debug\netstandard2.0\Contoso.Domain.pdb
+C:\Users\Usuario\Documents\Desarrollo\DOTNET\Projects\SolutionContosoUniversity\Contoso.Services\obj\Debug\netstandard2.0\Contoso.Services.csproj.CopyComplete
