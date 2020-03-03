@@ -31,7 +31,7 @@ export const ViewInfoApi = (props) => {
                         <th >{props.name}</th>
                         <th >{props.firstName}</th>
                         <th>{props.enrollmentDate}</th>
-                    </tr>               
+                    </tr>           
         
     );
 }
