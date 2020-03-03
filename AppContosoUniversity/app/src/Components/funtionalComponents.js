@@ -3,31 +3,35 @@ import React from 'react'
 
 
 export const GetApi = (props) => {
-    return(
+    return (
         <div className="form-card">
             <div>
-            <label>{props.nameText}</label>
+                <label>{props.nameText}</label>
             </div>
-            <button onClick={props.nameFunction}>{props.nameButton}</button>
+            <button onClick={props.nameFunction} type="button" class="btn btn-primary">{props.nameButton}</button>
         </div>
 
     );
 }
 
 export const ViewApi = (props) => {
-    return(
-    <div className="alert alert-primary" role="alert">
-        <label>{props.nameText}</label>
+    return (
+        <div className="alert alert-primary" role="alert">
+            <label>{props.nameText}</label>
 
-    </div>
+        </div>
     );
 }
 
 export const ViewInfoApi = (props) => {
-    return(
-    <div >
-        <label>{props.name}</label>
-
-    </div>
+    
+    return (
+               
+                    <tr>                       
+                        <th >{props.name}</th>
+                        <th >{props.firstName}</th>
+                        <th>{props.enrollmentDate}</th>
+                    </tr>               
+        
     );
 }
